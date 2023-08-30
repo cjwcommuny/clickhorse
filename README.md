@@ -1,1 +1,1 @@
-# clickhouse-inserter
+# clickhorse
